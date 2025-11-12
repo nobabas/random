@@ -10,7 +10,6 @@ individual modules. These should all be created by the thread management module 
 shared to other modules as required.
 */
 
-#include <ControllerInterface.h>
 #using <System.dll>
 #include <iostream>
 #include <cstdint>

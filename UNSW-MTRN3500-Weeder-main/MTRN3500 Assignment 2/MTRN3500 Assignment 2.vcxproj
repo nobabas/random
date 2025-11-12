@@ -149,7 +149,7 @@
     <ClCompile Include="GNSS.cpp" />
     <ClCompile Include="Laser.cpp" />
     <ClCompile Include="Main.cpp">
-      <CompileAsManaged Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</CompileAsManaged>
+      <CompileAsManaged Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</CompileAsManaged>
     </ClCompile>
     <ClCompile Include="TMM.cpp" />
     <ClCompile Include="VC.cpp" />

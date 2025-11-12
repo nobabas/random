@@ -1,4 +1,7 @@
 #include "Controller.h"
+#pragma managed(push, off)
+#include "ControllerInterface.h"
+#pragma managed(pop)
 
 // Constructors
 Controller::Controller(SM_ThreadManagement^ SM_TM, SM_VehicleControl^ SM_VehicleControl) {

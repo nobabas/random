@@ -1,6 +1,7 @@
 #pragma once
 
 #include <UGVModule.h>
+#include "SMObjects.h"
 
 #define MAX_SPEED 1			// in meter per sec
 #define MAX_STEERING 40		// in degree
